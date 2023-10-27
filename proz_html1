@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lugares Turísticos na Europa</title>
+    <style>
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Lugares Turísticos na Europa</h1>
+        <p>Explore alguns dos destinos mais incríveis da Europa.</p>
+    </header>
+
+    <div class="container">
+        <div class="card">
+            <img src="./imagens/paris.JPG" alt="Destino 1">
+            <h2>Paris, França</h2>
+            <p>Conheça a Torre Eiffel, o Louvre e a charmosa arquitetura parisiense.</p>
+            <a href="paris.html">Saiba mais</a>
+        </div>
+
+        <div class="card">
+            <img src="./imagens/roma.JPG" alt="Destino 2">
+            <h2>Roma, Itália</h2>
+            <p>Explore o Coliseu, o Vaticano e a deliciosa culinária italiana.</p>
+            <a href="roma.html">Saiba mais</a>
+        </div>
+
+        <div class="card">
+            <img src="./imagens/barcelona.JPG" alt="Destino 3">
+            <h2>Barcelona, Espanha</h2>
+            <p>Descubra a arquitetura única de Gaudí e aproveite as praias ensolaradas.</p>
+            <a href="barcelona.html">Saiba mais</a>
+        </div>
+    </div>
+</body>
+</html>
